@@ -138,4 +138,4 @@ Follow the existing Swagger documentation and make sure every endpoint and contr
 
 ### *Need More Information?* 
 
-If you are still stuck on one of the prior concepts, look at the **Users repo, develop branch **on BitBucket for examples.
+If you are still stuck on one of the prior concepts, look at the **Users repo, develop branch** on BitBucket for examples.
