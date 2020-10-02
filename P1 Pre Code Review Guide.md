@@ -15,8 +15,7 @@ All of the backend should follow *SOLID principles*.
 
 Below is a link to a quick explanation of what this entails. The examples are in Ruby, but the priniciples are the same.
 
-[https://www.monterail.com/hubfs/PDF%20content/SOLID_cheatsheet.pdf](https://www.monterail.com/hubfs/PDF content/SOLID_cheatsheet.pdf)
-
+https://www.monterail.com/hubfs/PDF%20content/SOLID_cheatsheet.pdf
 
 
 ### 2. Logger
